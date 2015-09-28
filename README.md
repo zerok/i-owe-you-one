@@ -9,6 +9,8 @@ With this list I try to keep track of who I owe a beer (or some other kind of
 beverage in the same price region 😉) for their help and support esp. related to
 open source/free software projects. No particular order has been applied here.
 
+Also, please note that this list is far from complete 😉
+
 - [Jannis Leidel][]: I don't even know where to start. Describing him as Django
   and OSS hero should give you a hint 😉
 - [David Malon][] for his [tiny fix][gocode_fix] in GoCode that gave it GB
