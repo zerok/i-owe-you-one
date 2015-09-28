@@ -23,10 +23,13 @@ Also, please note that this list is far from complete 😉
 - [Eric Holscher][] for all the work he does in the technical writing community
   and creating such awesome and inclusive events like WriteTheDocs. *At least*
   one drink is in order after that evening in Prague ...
-- Whoever initially introduced me to VIM and Emacs ... I will find you 😃
+- [Michael Kropfberger][] for making sure right in the first month of University
+  that I'd always know how to get out of Emacs again 😉
+- Whoever initially introduced me to VIM ... I will find you 😃
 
 [David Malon]: https://github.com/MerlinDMC
 [gocode_fix]: https://github.com/nsf/gocode/commit/85c63bdec7cd2dc6531cf2cb52d243a914ce6744
 [Jannis Leidel]: https://twitter.com/jezdez
 [Stefan Koopmanschap]: https://twitter.com/skoop
 [Eric Holscher]: http://ericholscher.com/
+[Michael Kropfberger]: http://www.kropfberger.com/
